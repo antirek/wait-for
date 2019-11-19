@@ -1,6 +1,6 @@
 #!/bin/sh
 
-TIMEOUT=15
+TIMEOUT=3600
 QUIET=0
 
 echoerr() {
